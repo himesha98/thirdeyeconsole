@@ -1,0 +1,55 @@
+#headerrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: black;
+    height: 80px;
+}
+
+#logo{
+    width: 60px;
+    height: 55px;
+    background: url("./logo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.userpropic{
+    border-radius: 50px;
+}
+#logosection{
+    
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
+.sitetitle{
+    font-size: 28px;
+    margin-left: 20px;
+    color: white;
+}
+
+#middlesection{
+  
+}
+
+
+#loginsection{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginbutton{
+    width: 150px;
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+}

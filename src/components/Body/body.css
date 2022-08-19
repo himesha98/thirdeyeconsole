@@ -1,0 +1,44 @@
+#bodysection{
+    display: flex;
+   
+}
+
+.sidemenu{
+  
+    
+}
+
+.viewMenuSection{
+width: 100%;
+}
+
+.itemlist{
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+#menuitem{
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-size: 24px;
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 0px 50px 50px 0px;
+}
+#menuitem:hover{
+    cursor: pointer;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-size: 24px;
+    background-color: rgb(172, 3, 3);
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 0px 50px 50px 0px;
+}
+

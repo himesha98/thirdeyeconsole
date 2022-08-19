@@ -1,0 +1,51 @@
+.allcontitle {
+  margin-top: 30px;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+.viewbutton {
+  background-color: black;
+  font-size: 18px;
+  color: white;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 120px;
+  border: none;
+}
+.viewbutton:hover {
+  background-color: rgb(170, 0, 0);
+  font-size: 18px;
+  color: white;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 120px;
+}
+.contenttitle {
+  font-size: 20px;
+  color: rgb(241, 241, 241);
+  font-weight: 500;
+}
+
+#viewconttablehead {
+  height: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 3px 3px rgb(233, 230, 230);
+  background-color: rgb(5, 5, 5);
+  border-radius: 5px;
+}
+
+.nodatatext {
+  margin-top: 50px;
+  font-size: 22px;
+  color: red;
+}
